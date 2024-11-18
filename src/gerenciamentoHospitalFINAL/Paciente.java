@@ -1,4 +1,4 @@
-package gerenciamentoHospital;
+package gerenciamentoHospitalFINAL;
 
 public class Paciente {
     private int numero;

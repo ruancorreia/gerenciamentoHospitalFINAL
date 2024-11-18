@@ -1,4 +1,4 @@
-package gerenciamentoHospital;
+package gerenciamentoHospitalFINAL;
 
 import java.io.*;
 import java.util.ArrayList;
